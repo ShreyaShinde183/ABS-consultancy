@@ -1,0 +1,146 @@
+[
+  {
+    "id": "manufacturing",
+    "name": "Manufacturing & Engineering",
+    "icon": "Factory",
+    "shortDescription": "Specialized inventory accounting, cost allocations, inverted duty GST refunds, and factory compliance frameworks.",
+    "challenges": [
+      "Complex raw material, WIP, and finished goods inventory valuation (AS-2 / Ind AS 2)",
+      "Working capital blockages resulting from inverted duty tax structures in GST",
+      "Factory Act, labour welfare, PF, ESIC, and multi-state compliance tracking",
+      "Scrap sales taxation, job work documentation, and statutory wastage disclosures"
+    ],
+    "solutions": [
+      "Automated standard cost systems and periodic variance reconciliation",
+      "Expedited inverted duty structure GST refund claim preparation and tracking",
+      "Monthly regulatory calendar covering factory statutory compliance",
+      "Job-work delivery challan reconciliations under GST Section 143"
+    ]
+  },
+  {
+    "id": "it-software",
+    "name": "IT, Software & SaaS",
+    "icon": "Cpu",
+    "shortDescription": "Zero-rated export compliance, LUT filings, SaaS revenue recognition under Ind AS 115, and cross-border tax planning.",
+    "challenges": [
+      "Complex recurring subscription revenue recognition across global timeframes",
+      "Foreign inward remittance verification (FIRC/e-BRC) and zero-rated GST audits",
+      "Transfer pricing documentation for cross-border software support and development",
+      "Equalisation levy and withholding tax requirements on international tech tools"
+    ],
+    "solutions": [
+      "Clean revenue recognition workflows aligned with Ind AS 115 / IFRS 15",
+      "Automated export LUT filings and streamlined GST refund procedures",
+      "Transfer pricing study reports and documentation compliance",
+      "Guidance on DTAA provisions to eliminate double withholding taxes on royalties"
+    ]
+  },
+  {
+    "id": "startups",
+    "name": "Startups & Emerging Ventures",
+    "icon": "Rocket",
+    "shortDescription": "DPIIT recognition, Section 80-IAC tax exemption, cap-table governance, and investor due diligence preparation.",
+    "challenges": [
+      "Navigating complex startup exemptions under Section 56(2)(viib) and Section 80-IAC",
+      "Messy cap-tables, ESOP structuring, and convertible note accounting",
+      "Limited runway requiring aggressive cash burn monitoring and unit economic clarity",
+      "Strict financial due diligence expectations from seed and venture capital investors"
+    ],
+    "solutions": [
+      "Turnkey DPIIT startup registration and tax holiday application filings",
+      "ESOP scheme formulation, valuation certificates, and cap-table structuring",
+      "Virtual CFO financial models projecting runway, CAC, LTV, and burn rate",
+      "Pre-due diligence audit cleanup to ensure seamless equity rounds"
+    ]
+  },
+  {
+    "id": "real-estate",
+    "name": "Real Estate & Construction",
+    "icon": "Building2",
+    "shortDescription": "RERA compliance, project quarterly account filings, Joint Development Agreement (JDA) tax structuring, and GST.",
+    "challenges": [
+      "Complex revenue recognition on project completion vs percentage-of-completion",
+      "Stringent RERA separate bank account escrow rules and CA certification mandates",
+      "GST input tax credit restrictions on commercial and residential residential construction",
+      "Capital gains tax liabilities arising from Joint Development Agreements (JDAs)"
+    ],
+    "solutions": [
+      "Statutory RERA Form-3 CA certifications for project withdrawals",
+      "JDA tax planning under Section 45(5A) of the Income Tax Act",
+      "Accurate cost tracking and project-level accounting to prevent escrow violations",
+      "Handling real estate GST departmental scrutiny and input reconciliations"
+    ]
+  },
+  {
+    "id": "healthcare",
+    "name": "Healthcare & Pharmaceuticals",
+    "icon": "Activity",
+    "shortDescription": "Doctor/hospital accounting, pharmaceutical batch costing, GST exemptions, and equipment lease structuring.",
+    "challenges": [
+      "Navigating mixed supplies: tax-exempt healthcare vs taxable medicines and room rent",
+      "High capital expenditure on advanced medical machinery requiring optimum tax depreciation",
+      "Multi-doctor consulting fee TDS deductions under Section 194J and 194M",
+      "Stringent pharmacy inventory controls and expiry stock write-offs"
+    ],
+    "solutions": [
+      "Clear separation of exempt health services and taxable institutional revenues",
+      "Tax-efficient equipment leasing and Section 32 depreciation optimization",
+      "Automated monthly TDS processing for hospital visiting consultants",
+      "Pharmacy stock accounting and batch-level expiration reconciliation"
+    ]
+  },
+  {
+    "id": "retail-ecommerce",
+    "name": "Retail & E-commerce",
+    "icon": "ShoppingBag",
+    "shortDescription": "Multi-channel POS reconciliation, TCS compliance under GST Section 52, inventory turn tracking, and returns.",
+    "challenges": [
+      "High volume of micro-transactions from marketplaces (Amazon, Flipkart, Shopify)",
+      "Tax Collected at Source (TCS) tracking and reconciliation with marketplace statements",
+      "Inventory shrinkages, returns (RTO), and damaged stock write-off documentation",
+      "Multi-state GST registrations for Principle and Additional Places of Business (PPoB/APoB)"
+    ],
+    "solutions": [
+      "Automated ingestion of marketplace settlements into accounting software",
+      "Monthly GSTR-8 TCS reconciliation against GST returns to prevent cash leakage",
+      "Inventory turn and gross margin reporting by SKU and category",
+      "Seamless multi-state GST registration and state-wise return management"
+    ]
+  },
+  {
+    "id": "agriculture",
+    "name": "Agriculture & Agro-Processing",
+    "icon": "Wheat",
+    "shortDescription": "Agricultural income tax exemptions, FPO structuring, food processing subsidies, and cold-chain compliance.",
+    "challenges": [
+      "Distinguishing pure exempt agricultural income from taxable agro-processing profits",
+      "Farmer Producer Organisation (FPO) governance and compliance with Section 80P",
+      "Documentation required to prove agricultural land sales exemption under Section 2(14)",
+      "Availing government subsidies and grants for food processing infrastructure"
+    ],
+    "solutions": [
+      "Clear tax bifurcation between farming operations and industrial agro-processing",
+      "End-to-end statutory audit, incorporation, and ROC compliance for FPOs",
+      "Statutory certification for rural agricultural land classification and capital gains exemption",
+      "Assistance with NABARD and Ministry of Food Processing subsidy audits"
+    ]
+  },
+  {
+    "id": "ngos",
+    "name": "NGOs, Trusts & Section 8",
+    "icon": "HeartHandshake",
+    "shortDescription": "Section 12AB registration, 80G tax exemption certificates, FCRA compliance, and grant audit certifications.",
+    "challenges": [
+      "Mandatory re-registration and renewals under Section 12AB and 80G",
+      "Strict utilisation thresholds (85% rule) and Form 9A/10 accumulation requirements",
+      "Strict FCRA regulations on receiving and deploying foreign philanthropic contributions",
+      "Donor-mandated statutory fund utilization certificates and transparency"
+    ],
+    "solutions": [
+      "Turnkey handling of Form 10A and Form 10AB for 12AB and 80G registrations",
+      "Audit of charitable income and expenditure with Form 10B/10BB electronic filing",
+      "Foreign Contribution Regulation Act (FCRA) audit and Form FC-4 annual returns",
+      "Project-specific fund utilization certificates for institutional and CSR donors"
+    ]
+  }
+]

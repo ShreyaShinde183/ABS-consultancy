@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "clientName": "Rajesh Deshmukh",
+    "designation": "Managing Director",
+    "companyName": "Precision Gears & Forgings Pvt. Ltd.",
+    "industry": "Manufacturing",
+    "rating": 5,
+    "feedback": "ABS Consultancy transformed our financial governance. They resolved a complex inverted duty GST refund issue that had locked up substantial working capital for over 8 months. Their technical precision and speed in dealing with departmental officers is exemplary.",
+    "isSample": true
+  },
+  {
+    "id": 2,
+    "clientName": "Ananya Sharma",
+    "designation": "Co-Founder & CEO",
+    "companyName": "CloudMetrics Technologies",
+    "industry": "IT & SaaS",
+    "rating": 5,
+    "feedback": "As an early-stage SaaS startup with clients in the US and Europe, we were overwhelmed by foreign remittances, transfer pricing, and LUT filings. The ABS team stepped in as our Virtual CFO, streamlining our books, securing our 80-IAC documentation, and preparing us for institutional seed funding.",
+    "isSample": true
+  },
+  {
+    "id": 3,
+    "clientName": "Dr. Sameer Patil",
+    "designation": "Director",
+    "companyName": "Apex Multispeciality Healthcare",
+    "industry": "Healthcare",
+    "rating": 5,
+    "feedback": "Their advisory on handling hospital GST exemptions while structuring tax depreciation on medical machinery gave us immense clarity. The tax audit process was thorough, disciplined, and executed with strict adherence to ICAI guidelines.",
+    "isSample": true
+  },
+  {
+    "id": 4,
+    "clientName": "Vikram Sethi",
+    "designation": "Managing Partner",
+    "companyName": "Landmark Urban Developers",
+    "industry": "Real Estate",
+    "rating": 5,
+    "feedback": "Navigating RERA separate accounts and Joint Development Agreement taxation is difficult without seasoned experts. ABS Consultancy's personal attention and rigorous review ensured 100% compliance without a single hitch during quarterly RERA filings.",
+    "isSample": true
+  },
+  {
+    "id": 5,
+    "clientName": "Sunita Kulkarni",
+    "designation": "Trustee",
+    "companyName": "Jnana Prabha Educational Foundation",
+    "industry": "NGO & Trusts",
+    "rating": 5,
+    "feedback": "Renewing our Section 12AB and 80G registrations was handled seamlessly by ABS Consultancy. Their team's deep understanding of charitable trust law and meticulous Form 10B preparation gave our donor board complete confidence.",
+    "isSample": true
+  }
+]

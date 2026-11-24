@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Disallow build files and node modules
+Disallow: /node_modules/
+Disallow: /dist/
+
+# Search Engine Crawlers Specific Settings
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+# Host & Sitemap Specification
+Host: https://absconsultancy.in
+Sitemap: https://absconsultancy.in/sitemap.xml

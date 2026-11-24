@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased;
+  }
+
+  /* Custom subtle scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #f1f5f9;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-navy-light via-primary-900 to-primary-700;
+  }
+
+  /* Premium Technical Dark Navy Blue Gradient & Grid (MS Kadam & Associates inspired)
+     - Base color: #0B1428 (deep midnight navy blue)
+     - Gradient: #122B50 (dark royal blue at top) to #0B1428 to #070D1B (almost black navy at bottom)
+     - 78px x 78px subtle technical grid overlay with 3.5% opacity (pure CSS linear-gradients)
+     - 100% responsive across desktop, tablet, and mobile with zero image dependencies
+  */
+  .bg-tech-navy-grid {
+    background-color: #0B1428;
+    background-image:
+      linear-gradient(to right, rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+      linear-gradient(180deg, #122B50 0%, #0B1428 50%, #070D1B 100%);
+    background-size: 78px 78px, 78px 78px, 100% 100%;
+    background-position: center top, center top, center top;
+    background-repeat: repeat, repeat, no-repeat;
+  }
+}

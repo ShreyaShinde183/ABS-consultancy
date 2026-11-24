@@ -1,0 +1,178 @@
+[
+  {
+    "id": "income-tax",
+    "category": "Taxation",
+    "title": "Income Tax & Direct Tax",
+    "subtitle": "Planning, ITR, audits, & scrutiny",
+    "icon": "Calculator",
+    "shortDescription": "Strategic direct tax planning, corporate return filing, faceless assessment scrutiny handling, and advance tax management.",
+    "features": [
+      "Corporate & individual ITR filing (ITR-1 through ITR-7)",
+      "Advance tax computation & quarterly compliance",
+      "Faceless assessment & appellate authority representation",
+      "Tax saving restructuring & statutory deductions audit"
+    ],
+    "detailedDescription": "We deliver institutional-grade direct tax advisory that minimizes risk and optimizes tax obligations within statutory frameworks. From corporate restructuring to high-net-worth individual portfolios, our team anchors your direct tax strategy with deep legal precedents.",
+    "faqs": [
+      {
+        "question": "How does ABS Consultancy support clients during faceless scrutiny assessments?",
+        "answer": "We prepare meticulous written submissions backed by judicial citations, statutory books of accounts, and financial proofs submitted directly on the e-filing portal to protect client interests."
+      },
+      {
+        "question": "When is advance tax applicable?",
+        "answer": "Advance tax is applicable if your total estimated tax liability in a financial year, after deducting TDS/TCS, is ₹10,000 or more."
+      }
+    ]
+  },
+  {
+    "id": "gst-compliance",
+    "category": "Indirect Tax",
+    "title": "GST Compliance & Advisory",
+    "subtitle": "GSTR 1/3B/9, 2B ITC reco & notices",
+    "icon": "Receipt",
+    "features": [
+      "GSTR-1, GSTR-3B & annual GSTR-9/9C reconciliation",
+      "Input Tax Credit (ITC) reconciliation with GSTR-2B",
+      "Departmental audit defense & show-cause notice replies",
+      "Export LUT filings and inverted duty refund applications"
+    ],
+    "shortDescription": "End-to-end Goods and Services Tax compliance, monthly filings, reconciliation, departmental representation, and refund processing.",
+    "detailedDescription": "Our GST practice provides complete operational and advisory support to navigate the intricacies of Goods and Services Tax. We ensure your business achieves 100% statutory adherence while maximizing permissible Input Tax Credits through our robust vendor reconciliation framework.",
+    "faqs": [
+      {
+        "question": "What is the consequence of mismatched ITC between GSTR-2B and purchase register?",
+        "answer": "Under Section 16(2)(aa) of the CGST Act, taxpayers cannot claim ITC unless reflected in GSTR-2B. We run monthly 3-way reconciliations to alert non-compliant vendors and safeguard against departmental penalties."
+      },
+      {
+        "question": "Can you assist with GST refunds on export of goods or services?",
+        "answer": "Yes. We manage Letter of Undertaking (LUT) filings and handle refund applications for inverted tax structures and unutilized ITC on zero-rated export supplies."
+      }
+    ]
+  },
+  {
+    "id": "auditing-assurance",
+    "category": "Auditing",
+    "title": "Auditing & Assurance",
+    "subtitle": "Statutory, tax, internal & IFC audits",
+    "icon": "ShieldCheck",
+    "features": [
+      "Statutory audits under Companies Act 2013",
+      "Tax audit under Section 44AB (Form 3CA/3CB/3CD)",
+      "Internal Financial Controls (IFC) testing & review",
+      "CARO 2020 reporting & mandatory UDIN validation"
+    ],
+    "shortDescription": "Independent, rigorous examination of financial statements ensuring compliance with ICAI standards, Companies Act, and tax provisions.",
+    "detailedDescription": "We provide stakeholders, lenders, and investors with independent assurance regarding financial health, corporate governance, and statutory adherence, ensuring full transparency in financial reporting.",
+    "faqs": [
+      {
+        "question": "Who requires a tax audit under Section 44AB?",
+        "answer": "Businesses having total sales or turnover exceeding ₹1 Crore (or ₹10 Crore if cash transactions are within 5%) and professionals with gross receipts over ₹50 Lakhs."
+      }
+    ]
+  },
+  {
+    "id": "corporate-mca",
+    "category": "Corporate Law",
+    "title": "Corporate & MCA Compliance",
+    "subtitle": "Pvt Ltd, LLP, ROC annual filings",
+    "icon": "Building2",
+    "features": [
+      "Company & LLP incorporation via SPICe+ MCA portal",
+      "Annual ROC filings: Form AOC-4 & MGT-7",
+      "Director KYC (DIR-3 KYC) and annual secretarial records",
+      "Capital alteration, share transfers, and board resolutions"
+    ],
+    "shortDescription": "Annual ROC filings, secretarial documentation, director KYC, board governance, and statutory register maintenance.",
+    "detailedDescription": "Stay fully compliant with Ministry of Corporate Affairs regulations. We prevent steep late penalties, director disqualifications, and legal liabilities through disciplined secretarial and corporate compliance cycles.",
+    "faqs": [
+      {
+        "question": "What happens if annual ROC returns are delayed?",
+        "answer": "Delays attract cumulative daily penalties of ₹100 per form and risk strike-off notices from ROC, alongside potential disqualification of directors under Section 164(2)."
+      }
+    ]
+  },
+  {
+    "id": "digital-accounting",
+    "category": "Accounting",
+    "title": "Digital Accounting & MIS",
+    "subtitle": "Bookkeeping, Tally & executive MIS",
+    "icon": "FileText",
+    "features": [
+      "Modern cloud setup: Tally Prime, Zoho Books, QuickBooks",
+      "Accounts Payable (AP) and Accounts Receivable (AR) management",
+      "Monthly bank, ledger, and statutory reconciliations",
+      "Executive MIS reports for real-time financial visibility"
+    ],
+    "shortDescription": "Cloud-based digital bookkeeping, monthly closure, payroll compliance, and executive MIS dashboard reporting.",
+    "detailedDescription": "We replace manual, error-prone accounting with streamlined digital bookkeeping. Our accountants oversee your day-to-day accounts, providing timely monthly closures and executive dashboards.",
+    "faqs": [
+      {
+        "question": "Can you work with our existing accounting software?",
+        "answer": "Yes, we integrate seamlessly with Tally, Zoho Books, SAP Business One, QuickBooks, or proprietary ERP systems."
+      }
+    ]
+  },
+  {
+    "id": "virtual-cfo",
+    "category": "Advisory",
+    "title": "Virtual CFO Services",
+    "subtitle": "Strategic planning, CMA & cash flow",
+    "icon": "TrendingUp",
+    "features": [
+      "Fractional/Virtual CFO engagement models",
+      "Rolling 12-month cash flow & working capital management",
+      "Budgeting, variance analysis, and unit economics optimization",
+      "CMA data preparation & banking credit limit presentations"
+    ],
+    "shortDescription": "Executive financial leadership, cash flow forecasting, budgeting, capital structuring, and investor readiness.",
+    "detailedDescription": "Gain the strategic advantages of a high-caliber Chief Financial Officer without full-time executive overhead. We help founders and business leaders steer growth, maintain liquidity, and structure capital efficiently.",
+    "faqs": [
+      {
+        "question": "What is the typical Virtual CFO engagement scope?",
+        "answer": "We conduct weekly financial reviews, monthly board presentations, cash flow planning, cost rationalization, and coordinate audit and banking relations."
+      }
+    ]
+  },
+  {
+    "id": "ngo-trust",
+    "category": "Advisory",
+    "title": "NGO & Trust Compliance",
+    "subtitle": "12AB, 80G, Form 10BD & CSR",
+    "icon": "HeartHandshake",
+    "features": [
+      "Section 12AB and 80G fresh registrations & renewals",
+      "Form 10BD statement of donations filing",
+      "Statutory audit of trusts with Form 10B/10BB",
+      "FCRA registration and annual return compliance"
+    ],
+    "shortDescription": "Regulatory support for charitable trusts, societies, Section 8 companies, and non-profit development organizations.",
+    "detailedDescription": "Specialized regulatory support for social development organizations, public trusts, societies, Section 12AB/80G registrations, and grant utilization certifications.",
+    "faqs": [
+      {
+        "question": "What is Form 10BD?",
+        "answer": "Form 10BD is an annual statement of donations that must be filed by exempt entities to enable donors to claim Section 80G deduction on their tax returns."
+      }
+    ]
+  },
+  {
+    "id": "tax-litigation",
+    "category": "Litigation",
+    "title": "Tax Litigation & Appeals",
+    "subtitle": "CIT(Appeals), ITAT & dispute defense",
+    "icon": "Scale",
+    "features": [
+      "Drafting grounds of appeal & statements of facts",
+      "Representation before Commissioner of Income Tax (Appeals)",
+      "Appellate Tribunal (ITAT) submission preparation",
+      "Dispute resolution against GST demand notices & penalties"
+    ],
+    "shortDescription": "Expert legal representation in direct and indirect tax disputes, penalty proceedings, and appellate tribunals.",
+    "detailedDescription": "Deeply grounded in statutory citations, landmark judicial precedents, and case laws to defend client positions with maximum technical rigor before tax authorities and appellate tribunals.",
+    "faqs": [
+      {
+        "question": "What is the procedure for filing an appeal before CIT(Appeals)?",
+        "answer": "Appeals against assessment orders are filed electronically in Form 35 within 30 days of service of notice of demand, backed by statement of facts and legal grounds."
+      }
+    ]
+  }
+]
